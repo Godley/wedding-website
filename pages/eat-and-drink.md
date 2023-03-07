@@ -17,7 +17,7 @@
 
 # Gastropubs and a taproom
 - [The John O'Gaunt Pub, Sutton](http://www.johnogauntsutton.co.uk): Off the beaten track pub past a ford. Really good food, listed in the Michellin guide. Good range of food and great quality. Booking via email recommended.
-- [Stratton House Hotel](https://www.strattonhouse-hotel.co.uk) does nice cocktails, very nice staff. London Pride on tap. Think it's been renamed to Saddle and Spoke, but is still inside the hotel.
+- [Saddle and Spoke, Biggleswade](https://saddleandspoke.com) does nice cocktails, very nice staff. London Pride on tap. Same building (and owners) as the stratton house hotel.
 - [The Hare and Hound, Old Warden](https://www.hareandhoundsoldwarden.com): the only pub in the village on the Shuttleworth estate. Good selection of local brews, mostly from Bedford. Food is excellent.
 - [The Black Horse at Ireland](https://blackhorseireland.com): really good food. Really nice professional waiters. 
 - [Drink Biggleswade](https://www.drinkbiggleswade.co.uk): if you're after a broad selection of more modern, stronger beers this is the place to go. Being a taproom the prices are a little higher than the pubs, but it's a small and sociable bar and they'll give you tasters of whatever you ask for. Sells tinnies which can be taken away or drunk in, as well as 5 rotating beers on tap. 
