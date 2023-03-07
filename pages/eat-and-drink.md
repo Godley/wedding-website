@@ -16,7 +16,7 @@
 - Woodview Farmshop, Gamlingay: nice cafe and butchery with a good selection of produce.
 
 # Gastropubs and a taproom
-- [The John O'Gaunt Pub, Sutton](http://www.johnogauntsutton.co.uk): Off the beaten track pub. Really good food, listed in the Michellin guide. Good range of food and great quality (slightly pricier though). Booking via email recommended.
+- [The John O'Gaunt Pub, Sutton](http://www.johnogauntsutton.co.uk): Off the beaten track pub past a ford. Really good food, listed in the Michellin guide. Good range of food and great quality (slightly pricier though). Booking via email recommended.
 - [Stratton House Hotel](https://www.strattonhouse-hotel.co.uk) does nice cocktails, very nice staff. London Pride on tap. Think it's been renamed to Saddle and Spoke, but is still inside the hotel.
 - [The Hare and Hound, Old Warden](https://www.hareandhoundsoldwarden.com): the only pub in the village on the shuttleworth estate. Good selection of local brews, mostly from Bedford.
 - [The Black Horse at Ireland](https://blackhorseireland.com): really good, more expensive food. Really nice professional waiters. 
