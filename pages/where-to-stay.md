@@ -1,14 +1,15 @@
 # Closest
 - [Black Horse at Ireland](https://blackhorseireland.com): Ireland, Bedfordshire that is! Very good quality food, includes breakfast.
 - [Estate housing](https://www.landmarktrust.org.uk/search-and-book/landmark-groups/old-warden/#Search): - there are a few landmark to stay around the estate if you're looking for something more unique. All have a minimum stay of Friday to Sunday and are a bit more expensive, though. 
+
 Ireland is about a 7 minute taxi or an hour's stumble down an unlit country road (not advised!). The houses on the estate are about a 15 minute walk. Signal is limited once you leave the A1, so pre booking taxis to and from the venue is advised.
 
 # Biggleswade
 - [Stratton House Hotel](https://www.strattonhouse-hotel.co.uk): good quality "gastropub" food. Fairly traditional central hotel in Biggleswade built in the 17th century.
 - [The Crown Hotel](https://www.booking.com/hotel/gb/the-crown-wetherspoon.en-gb.html): Wetherspoons, central Biggleswade. Rooms are "very nice" according to local reviews.
 - Stratton Guest House - a bit more basic but comfortable rooms. Very close to the train station
-
 - Chic House - I imagine similar to the Guest House.
+
 All hotels in Biggleswade will be about a 15 minute taxi drive from the venue, and around about £10 before 11 or £15 after.
 
 # Close by villages
