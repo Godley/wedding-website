@@ -11,7 +11,7 @@
 - Onsite Shuttleworth collection cafe - should be accessible to all guests any day.
 
 # More "brunch"-y
-- The Coach House, Potton: nice brunch and lunch style food, somewhat american in style.
+- [The Coach House, Potton](https://www.coachhousepotton.co.uk): nice brunch and lunch style food, somewhat american in style.
 - Rosso Lounge, Biggleswade: does great brunch, good homemade drinks and a very broad menu covering lunch and dinner. Part of a chain
 - Woodview Farmshop, Gamlingay: nice cafe and butchery with a good selection of produce.
 
@@ -21,4 +21,7 @@
 - [The Hare and Hound, Old Warden](https://www.hareandhoundsoldwarden.com): the only pub in the village on the Shuttleworth estate. Good selection of local brews, mostly from Bedford. Food is excellent.
 - [The Black Horse at Ireland](https://blackhorseireland.com): really good food. Really nice professional waiters. 
 - [Drink Biggleswade](https://www.drinkbiggleswade.co.uk): if you're after a broad selection of more modern, stronger beers this is the place to go. Being a taproom the prices are a little higher than the pubs, but it's a small and sociable bar and they'll give you tasters of whatever you ask for. Sells tinnies which can be taken away or drunk in, as well as 5 rotating beers on tap. 
+
+# Misc
+- [O'Sarracino, Potton and Biggleswade](https://osarracino.co.uk): small family run italian in a wood beam building in Potton, and another in a slightly more modern building in Biggleswade. Booking recommended, especially in Potton.
 
