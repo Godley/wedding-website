@@ -12,8 +12,8 @@
 
 # More "brunch"-y
 - [The Coach House, Potton](https://www.coachhousepotton.co.uk): nice brunch and lunch style food, somewhat american in style.
-- Rosso Lounge, Biggleswade: does great brunch, good homemade drinks and a very broad menu covering lunch and dinner. Part of a chain
-- Woodview Farmshop, Gamlingay: nice cafe and butchery with a good selection of produce.
+- [Rosso Lounge, Biggleswade](https://thelounges.co.uk/rosso/): does great brunch, good homemade drinks and a very broad menu covering lunch and dinner. Part of a chain
+- [Woodview Farmshop, Gamlingay](https://www.woodviewfarm.co.uk): nice cafe and butchery with a good selection of produce.
 
 # Gastropubs and a taproom
 - [The John O'Gaunt Pub, Sutton](http://www.johnogauntsutton.co.uk): Off the beaten track pub past a ford. Really good food, listed in the Michellin guide. Good range of food and great quality. Booking via email recommended.
