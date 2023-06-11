@@ -9,9 +9,6 @@ main_nav: true
 ## How do I RSVP?
 Please email rsvp@dannyandcharlotte.com, if you are a day guest please include any dietary requirements and your menu choices. If you have any song requests please feel free to send them our way!
 
-## Can I take photos?
-Please avoid using your phone and if possible, switch it off for the ceremony. We have a professional photographer for the day and would prefer to avoid screens and elbows being in any of the pictures! You are most encouraged to take as many pictures as you like _after_ the ceremony, though we would prefer it if you didn't share them to social media until after the day (everyone who cares about our wedding is invited anyway!). If you get any good ones send them our way. We will provide a means of uploading them to a shared area on the day.
-
 ## What should I wear?
 Standard wedding wear please, please avoid royal purple or forest green solid colours (and obviously white for women!). Unfortunately the venue insists any stiletto shoes inside the house have to have heel protectors to protect the floors. We will be providing some, please put them over your heels when you arrive should that be your choice of footwear. 
 
