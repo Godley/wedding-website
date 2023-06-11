@@ -10,10 +10,10 @@ Despite living in the middle of nowhere there's a surprising amount of places to
 
 ## Closest
 - Shuttleworth collection and swiss garden: both really lovely attractions, definitely could spend multiple days wandering around. Anyone staying at the house can get into the collection and garden for free the next day. Swiss Garden predates the house and is certified by the Swiss Tourist board.
-Shuttleworth agricultural college: around the corner is a huge collection of animals for Shuttleworth's other main residents, people studying at the agricultural college. Not quite a zoo so not technically an attraction, but you can easily see the animals and take a wander. 
-Grounds: Multiple long walks through the estate, Queen Anne's Summerhouse gives you a good, well framed view of the House. Accessible from the gate in Old Warden.
+_Shuttleworth agricultural college:_ around the corner is a huge collection of animals for Shuttleworth's other main residents, people studying at the agricultural college. Not quite a zoo so not technically an attraction, but you can easily see the animals and take a wander. 
+_Grounds:_ Multiple long walks through the estate, Queen Anne's Summerhouse gives you a good, well framed view of the House. Accessible from the gate in Old Warden.
 
-- [RSPB Sandy](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/the-lodge): massive RSPB reserve in the next village up the A1. RSPB's headquarters is here. The land was donated by some lord because the soil is unworkable for farming. Cafe is currently being built, might be open by the time of the wedding. If not there is a shop which sells drinks and some outdoor seating.
+- [RSPB Sandy](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/the-lodge): massive RSPB reserve in the next village up the A1. RSPB's headquarters is here. The land was donated by some lord because the soil is unworkable for farming (hence the name of the town). Cafe is currently being built, might be open by the time of the wedding. If not there is a shop which sells drinks and some outdoor seating.
 The headquarters referred to as "the lodge" is worth walking up for.
 - [Sandy Heath Transmitter](https://en.wikipedia.org/wiki/Sandy_Heath_transmitting_station): massive radio and TV transmitter that handles the whole of Bedfordshire's tv signal. Also visible nearby, wind turbine owned by RSPB sandy and accessible from one of the RSPB walks, which they put up on their own land to disprove the theory about wind turbines killing birds!
 
