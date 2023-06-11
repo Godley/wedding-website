@@ -6,7 +6,7 @@ main_nav: true
 ---
 
 # Local attractions
-Despite living in the middle of nowhere there's a surprising amount of places to visit and nice walks.
+Despite living in the middle of nowhere there's a surprising amount of places to visit and nice walks. In case you're looking for something to do the day before or after, here are some of our favourite places to visit.
 
 ## Closest
 - Shuttleworth collection and swiss garden: both really lovely attractions, definitely could spend multiple days wandering around. Anyone staying at the house can get into the collection and garden for free the next day. Swiss Garden predates the house and is certified by the Swiss Tourist board.
@@ -15,14 +15,12 @@ _Grounds:_ Multiple long walks through the estate, Queen Anne's Summerhouse give
 
 - [RSPB Sandy](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/the-lodge): massive RSPB reserve in the next village up the A1. RSPB's headquarters is here. The land was donated by some lord because the soil is unworkable for farming (hence the name of the town). Cafe is currently being built, might be open by the time of the wedding. If not there is a shop which sells drinks and some outdoor seating.
 The headquarters referred to as "the lodge" is worth walking up for.
-- [Sandy Heath Transmitter](https://en.wikipedia.org/wiki/Sandy_Heath_transmitting_station): massive radio and TV transmitter that handles the whole of Bedfordshire's tv signal. Also visible nearby, wind turbine owned by RSPB sandy and accessible from one of the RSPB walks, which they put up on their own land to disprove the theory about wind turbines killing birds!
 
-- [Jordan's Mill, Broom](https://jordansmill.com): if you've seen any cereal in the supermarket by Jordan's, you might not realise they're a local brand. The logo shows the original mill building which you can now tour. At the mill there is a nice cafe, outdoor seating by the river, gardens decorated by a chelsea flower show winner, and a small garden shop. If you need to stock up on english granola they sell it in bulk here! Best followed by the Cock Inn in Broom for a beer. There is a walking route from here into Biggleswade town centre via the river Ivel.
+- [Jordan's Mill, Broom](https://jordansmill.com): if you've seen any cereal in the supermarket by Jordan's, you might not realise they're a local brand. The logo shows the original mill building which you can now tour. At the mill there is a nice cafe, outdoor seating by the river, gardens decorated by a chelsea flower show winner, and a small garden shop. If you need to stock up on english granola they sell it in bulk here! Best followed by the Cock Inn in Broom for a beer. There is a walking route from here into Biggleswade town centre via the river Ivel known as the Green Wheel.
 
-## 10-20 minute drive
-- [Danish Camp](https://danishcamp.co.uk) and Willington Dovecoat, Willington: a victorian dovecoat and walking route. Route is built over old train tracks, goes around a fishing lake and finally to the Danish Camp. Footpath is wide and tarmaced. Danish Camp is quite a strange, scandinavian themed bar with a big outdoor space beside the canal. Not open very late.
+## 20 minute drive
+- [Danish Camp](https://danishcamp.co.uk) and Willington Dovecoat, Willington: a victorian dovecoat and walking route. Route is built over old train tracks, goes around a fishing lake and finally to the Danish Camp. Footpath is wide and tarmaced. Danish Camp is a scandinavian themed bar with a big outdoor space beside the river. Not open very late.
 - [The Anchor, Great Barford](https://www.anchorinngreatbarford.co.uk): very long picturesque bridge over the river and floodplain with a nice riverside pub which does takeaway. Common for people to order food and drink from here to take out and sit by the river.
-- [Cardington Hangars, Cardington (nr Bedford)](https://www.cardingtonstudios.com): not really anything to look around and you can't get too close as it's now private land, but a huge landmark as you pass through toward Bedford and Milton Keynes. [Former airship sheds from WW1](https://en.wikipedia.org/wiki/Cardington_Airfield).
 
 
 ## Further north and south

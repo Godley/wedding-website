@@ -4,6 +4,7 @@ title: Food and Drink
 permalink: /food-and-drink/
 main_nav: true
 ---
+In case you've not headed this way before and you're wondering where to go the day before or day after, here are some of our favourite local restaurants and drinking establishments.
 
 # Proper pubs
 - [The Cock Inn, Broom](https://www.thecockinnbroom.com): brown signs from the road as it's a historic pub with "no bar" - just a keg room with a table in front of it. Great rotating selection of beers. Roast of the day available every day!
