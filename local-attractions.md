@@ -1,3 +1,10 @@
+---
+layout: page
+title: Local Attractions
+permalink: /attractions/
+main_nav: true
+---
+
 # Local attractions
 Despite living in the middle of nowhere there's a surprising amount of places to visit and nice walks.
 

@@ -1,4 +1,11 @@
-- **Day guests arrive at 2pm**. Refreshment drinks (juice, water) will be available.
+---
+layout: page
+title: Order of Service
+permalink: /oos/
+main_nav: true
+---
+
+- **Day guests arrive at 2.30pm**. Refreshment drinks (juice, water) will be available.
 - **Ceremony at 3pm** in the main saloon.
 **We would like to request people switch their phones off and do not film or take photographs during the ceremony unless explicitly asked by the bride or groom. We have a professional photographer for the whole day and would like you all to relax and enjoy the day.**
 - **Group photos from 3.30pm to 4pm**. This will be mostly family with some friends, please pay attention. We hope to get at least one group photo with all guests. Hors D'Ouvres and prosecco will be served outside between the ceremony and dinner, along with lawn games provided by the venue.

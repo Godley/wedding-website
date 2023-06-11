@@ -1,3 +1,9 @@
+---
+layout: page
+title: Food and Drink
+permalink: /food-and-drink/
+main_nav: true
+---
 
 # Proper pubs
 - [The Cock Inn, Broom](https://www.thecockinnbroom.com): brown signs from the road as it's a historic pub with "no bar" - just a keg room with a table in front of it. Great rotating selection of beers. Roast of the day available every day!
