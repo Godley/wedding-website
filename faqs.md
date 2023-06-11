@@ -1,3 +1,11 @@
+---
+layout: page
+title: FAQ
+permalink: /faq/
+main_nav: true
+---
+# Frequently Asked Questions
+
 ## How do I RSVP?
 Please email charlotte.godley@hotmail.co.uk or d.t.brown@outlook.com. If you have any song requests please feel free to send them our way!
 
